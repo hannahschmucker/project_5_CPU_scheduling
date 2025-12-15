@@ -2,7 +2,7 @@
 ## CPU Scheduling
 ### Project Description:
 
-** Implement three CPU scheduling policies (First-Come First-Serve, Shortest Remaining Time First, and Round Robin). ** 
+**Implement three CPU scheduling policies (First-Come First-Serve, Shortest Remaining Time First, and Round Robin).** 
 
 ## 
 This code is provided for portfolio purposes only. It is not intended for reuse in coursework. 
